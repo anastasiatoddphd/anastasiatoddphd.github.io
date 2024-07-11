@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 Hi! I am an Assistant Professor in Gender and Women's Studies at the University of Kentucky. I think and write about disability, girlhood, and the media. My first book is called *Cripping Girlhood* (Michigan, 2024). Read an open access copy [here](https://doi.org/10.3998/mpub.12769443).
-![cover of Cripping Girlhood](https://press.umich.edu/var/site/storage/images/university-of-michigan-press/books/c/cripping-girlhood2/9780472076741_cover/4924170-1-eng-CA/9780472076741_cover1_rb_fullcover.jpg)
+
 At the University of Kentucky, I teach courses like Gender & Disability, Feminist Affect Theory, Feminist Theory, and Girlhood Studies. 
 
 Read some other stuff I've written about: [disabled girlhood and service dogs on TikTok](https://www.mdpi.com/2075-4698/14/2/30); [military vets, service dogs, and ablenationalism](https://ojs.library.osu.edu/index.php/dsq/article/view/8297); [disabled girlhood on YouTube](https://www.berghahnjournals.com/view/journals/girlhood-studies/11/3/ghs110305.xml). 
