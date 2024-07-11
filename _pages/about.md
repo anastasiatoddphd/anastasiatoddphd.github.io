@@ -13,7 +13,7 @@ At the University of Kentucky, I teach courses like Gender & Disability, Feminis
 
 Read some other stuff I've written about: [disabled girlhood and service dogs on TikTok](https://www.mdpi.com/2075-4698/14/2/30); [military vets, service dogs, and ablenationalism](https://ojs.library.osu.edu/index.php/dsq/article/view/8297); [disabled girlhood on YouTube](https://www.berghahnjournals.com/view/journals/girlhood-studies/11/3/ghs110305.xml). 
 
-Email me if you want to chat more about crip-fluencers, cats, or reality television: *anastasia.todd@uky.edu*. 
+Email me if you want to chat more about crip-fluencers, cats, or reality television: **anastasia.todd@uky.edu**. 
 
 
 
