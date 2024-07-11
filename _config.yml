@@ -21,7 +21,7 @@ repository               : "anastasiatoddphd/anastasiatoddphd.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : ![Anastasia Todd](anastasiatoddphd.github.io/images/baby book shower.png)
+  avatar           : ![Anastasia Todd](/anastasiatoddphd.github.io/images/baby book shower.png)
   name             : "Anastasia Todd"
   pronouns         : "she/her"  
   bio              : "Assistant Professor of GWS"
