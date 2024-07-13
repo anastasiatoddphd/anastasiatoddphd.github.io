@@ -21,7 +21,7 @@ Email me if you want to chat more about crip-fluencers, cats, or reality televis
 
 
 ---
-I created this website using the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on [GitHub pages](https://pages.github.com). I used these two tutorials to help me: [1](https://jayrobwilliams.com/posts/2020/06/academic-website/), [2](https://medium.com/@carlbettosi/create-a-personal-academic-website-easily-with-github-pages-and-jekyll-minimal-coding-f1115eeb5ab7). 
+I created this website using the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and am hosting it on [GitHub pages](https://pages.github.com). I used these two tutorials to help me: [1](https://jayrobwilliams.com/posts/2020/06/academic-website/), [2](https://medium.com/@carlbettosi/create-a-personal-academic-website-easily-with-github-pages-and-jekyll-minimal-coding-f1115eeb5ab7). 
 
 
 
