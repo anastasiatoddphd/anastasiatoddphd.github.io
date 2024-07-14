@@ -5,6 +5,7 @@ type: "Selection of syllabi"
 permalink: /teaching/2015-spring-teaching-1
 venue: "University of Kentucky, Department of GWS"
 location: "City, Country"
+Date: "2022"
 
 ---
 
