@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "See some sample undergraduate syllabi here"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
@@ -8,13 +8,9 @@ date: 2014-01-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
-======
+[Gender and Disability, Spring 2024](https://docs.google.com/document/d/1KxV8sVY3dJNc4ly0h5c0_67YNmoAHjm07eYZf1hKgTE/edit#heading=h.sdat1m5qi4df)
 
-Heading 2
-======
+[Doing Feminist Research I: Methods, Spring 2024](https://docs.google.com/document/d/1IP4DCBuqRLCufUCHd6F4E2bhq-neuwoXAhszmQUhFQU/edit#heading=h.sdat1m5qi4df)
 
-Heading 3
-======
+[Feminist Theory, Fall 2023](https://docs.google.com/document/d/1f8ntS_5Mvi4V99vH5JzbI1_BUdh80kwyH2eeflDYHxo/edit#heading=h.sdat1m5qi4df)
