@@ -2,21 +2,22 @@
 title: "See some sample undergrad and grad syllabi here"
 collection: teaching
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "University of Kentucky, Department of GWS"
+
 ---
 
 
 
-**Undergrad**
+# Undergrad
+
 [Gender and Disability, Spring 2024](https://docs.google.com/document/d/1KxV8sVY3dJNc4ly0h5c0_67YNmoAHjm07eYZf1hKgTE/edit#heading=h.sdat1m5qi4df)
 
 [Doing Feminist Research I: Methods, Spring 2024](https://docs.google.com/document/d/1IP4DCBuqRLCufUCHd6F4E2bhq-neuwoXAhszmQUhFQU/edit#heading=h.sdat1m5qi4df)
 
 [Feminist Theory, Fall 2023](https://docs.google.com/document/d/1f8ntS_5Mvi4V99vH5JzbI1_BUdh80kwyH2eeflDYHxo/edit#heading=h.sdat1m5qi4df)
 
-**Grad**
+# Grad
+
 [Feminist Affect Theory, Fall 2023](https://docs.google.com/document/d/19zZlw2aRlWx8U0uj8Xu3YtSek1ILIBoK4ynOuNAC0xY/edit#heading=h.sdat1m5qi4df)
 
 [Debility and After/Alterlives, Spring 2023](https://docs.google.com/document/d/1YlviM7bGIAKT_-FzQxbT0P_iQKcl_3kt4qXKSOamlSA/edit#heading=h.sdat1m5qi4df)
