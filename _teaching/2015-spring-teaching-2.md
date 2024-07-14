@@ -1,14 +1,13 @@
 ---
 title: "See some sample undergrad and grad syllabi here"
 collection: teaching
-type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
 venue: "University 1, Department"
 date: 2015-01-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+
 
 **Undergrad**
 [Gender and Disability, Spring 2024](https://docs.google.com/document/d/1KxV8sVY3dJNc4ly0h5c0_67YNmoAHjm07eYZf1hKgTE/edit#heading=h.sdat1m5qi4df)
