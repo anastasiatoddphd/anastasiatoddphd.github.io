@@ -4,7 +4,6 @@ collection: teaching
 type: "Selection of syllabi"
 permalink: /teaching/2015-spring-teaching-1
 venue: "University of Kentucky, Department of GWS"
-date: "2022-2024"
 location: "City, Country"
 
 ---
