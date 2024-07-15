@@ -1,5 +1,6 @@
 ---
 title: "See some sample undergrad and grad syllabi here"
+collection: teaching
 permalink: /teaching/2015-spring-teaching-1
 
 
