@@ -3,7 +3,9 @@ title: "See some sample undergrad and grad syllabi here"
 collection: teaching
 type: "Selection of syllabi"
 permalink: /teaching/2015-spring-teaching-1
-
+venue: "University of Kentucky, Department of GWS"
+location: "City, Country"
+date: 2024-01-01
 
 ---
 
