@@ -5,7 +5,7 @@ type: "Selection of syllabi"
 permalink: /teaching/2015-spring-teaching-1
 venue: "University of Kentucky"
 location: "City, Country" 
-date: "2024-01-01" (last updated)
+date: "2024-01-01" last updated
 
 ---
 
