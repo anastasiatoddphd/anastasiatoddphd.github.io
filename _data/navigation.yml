@@ -3,14 +3,11 @@ main:
   - title: "Publications"
     url: /publications/
    
-
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Syllabi"
+    url: /syllabi/  
     
     
   - title: "CV"
     url: /cv/
-
-  - title: "Syllabi"
-    url: /syllabi/   
+  
 
